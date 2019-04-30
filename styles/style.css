@@ -1,0 +1,55 @@
+body {
+    background-color: rgb(207, 212, 253);
+    height: 100%;
+}
+
+div.mainContent {
+    background-color: rgb(253, 196, 163);
+    width: 600px;
+    min-width: 600px;
+    margin: auto;
+    height:100%;
+}
+
+h1 {
+    text-align: center;
+}
+
+table {
+    margin: auto;
+}
+
+td.content {
+    text-align: center;
+}
+
+hr {
+    color: red;
+    text-align: center;
+    width: 500px;
+    size: 2;
+}
+
+button {
+    width: 100px;
+}
+
+#paymentTab thead tr td {
+    text-align: center;
+}
+
+#paymentTab tbody tr td {
+    text-align: right;
+}
+
+.rightborder {
+    border-right: 1px solid;
+}
+
+#years {
+    margin-top: 0;
+}
+
+#timeRange {
+    margin-bottom: 0;
+}
